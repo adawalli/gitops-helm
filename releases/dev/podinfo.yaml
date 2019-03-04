@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: adawalli/podinfo:dev-mqir7m7k
+    image: adawalli/podinfo:dev-er3mzugl
     replicaCount: 1
     hpa:
       enabled: false
